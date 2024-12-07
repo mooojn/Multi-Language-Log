@@ -7,3 +7,6 @@
 [submodule "HtmlCss"]
 	path = HtmlCss
 	url = https://github.com/mooojn/HtmlCss
+[submodule "JavaScript"]
+	path = JavaScript
+	url = https://github.com/mooojn/JavaScript
