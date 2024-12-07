@@ -4,3 +4,6 @@
 [submodule "CSharp"]
 	path = CSharp
 	url = https://github.com/mooojn/CSharp
+[submodule "HtmlCss"]
+	path = HtmlCss
+	url = https://github.com/mooojn/HtmlCss
