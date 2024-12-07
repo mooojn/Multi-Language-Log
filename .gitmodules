@@ -10,3 +10,6 @@
 [submodule "JavaScript"]
 	path = JavaScript
 	url = https://github.com/mooojn/JavaScript
+[submodule "NodeJS"]
+	path = NodeJS
+	url = https://github.com/mooojn/NodeJS
